@@ -9,3 +9,5 @@ My hobbies are:
 - Sport
 - Cook
 - Travel
+
+![avatar](https://user-images.githubusercontent.com/28544371/217004504-ed98eabd-000a-447a-82b4-0aab5e7d2165.png)
