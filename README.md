@@ -12,4 +12,5 @@ My hobbies are:
 - Cook
 - Travel
 
-![avatar](https://user-images.githubusercontent.com/28544371/217004504-ed98eabd-000a-447a-82b4-0aab5e7d2165.png)
+<img src = "https://user-images.githubusercontent.com/28544371/217004504-ed98eabd-000a-447a-82b4-0aab5e7d2165.png"
+     width ="400" height="400">
