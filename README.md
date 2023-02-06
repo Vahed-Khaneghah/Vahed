@@ -1,8 +1,10 @@
-# Hello dear visitor 
+# Hello dear visitor 🧔
 
-## Welcome of my Github site
+## Welcome of my Github site 
 
-My name is **Hamid** and **i love coding**
+<h1 align="center"> ** About me ** </h1>
+
+  <p align="center"> My name is **Hamid** and **i love coding** </p>
 
 My hobbies are:
 - Coding
