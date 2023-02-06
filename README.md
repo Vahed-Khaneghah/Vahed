@@ -2,7 +2,7 @@
 
 ## Welcome of my Github site 
 
-<h1 align="center"> ** About me ** </h1>
+<h2 align="center"> About me </h2>
 
   <p align="center"> My name is **Hamid** and **i love coding** </p>
 
